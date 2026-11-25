@@ -25,9 +25,9 @@ A Python application that automatically organizes files into folders based on th
 4. Run:
    
 python File organizer.py
-""""""""""""""""""""
+"""""
 For the GUI version:
-""""""""""""""""""""
+"""""
 python File organizer2.py
 
 
